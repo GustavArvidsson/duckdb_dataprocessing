@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# mac
+.DS_store
+
+# duckdb stuffs
+*.wal
+*.tmp/
+*.duckdb*
